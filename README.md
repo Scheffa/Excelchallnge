@@ -1,3 +1,3 @@
 # Excelchallnge
 
-!(resourses/Picture3)
+!(resourses/Picture3.jpg)

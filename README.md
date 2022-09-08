@@ -11,7 +11,7 @@
 ![resources/![resources/Pictur9.jpg](resources/Picture9.jpg)
 [resources/![resources/OutcomesBasedonGols](resources/OutcomesBasedonGols)
 [resources/![resources/Countofoutcomes_1](resources/Countofoutcomes_1)
-
+[resources/![CountofOutcomes_2](resources/CountofOutcomes_2)
 
 
 

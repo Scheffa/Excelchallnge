@@ -14,4 +14,5 @@
 [resources/![resources/CountofOutcomes_2](resources/CountofOutcomes_2)
 [resources/![resources/outcomesBasedonLunch](resources/outcomesBasedonLunch)
 
+[resources/![resources/OutcomesBasedonGols](resources/OutcomesBasedonGols)
 
